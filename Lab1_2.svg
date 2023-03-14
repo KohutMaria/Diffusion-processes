@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="179.61392"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-74.360245 -247.993683 179.613922 444.930481" height="444.93048"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 17.999567,107.788406 L 12.817276,-18.055811"
+              class="id_Alice id_Bob" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.273703,180.393860 L 17.001787,112.530968"
+              class="id_Carl id_Alice" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.826126,111.319939 L -55.745071,143.819931"
+              class="id_Alice id_David" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 20.077202,111.819351 L 87.941986,164.504425"
+              class="id_Alice id_Ernst" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.763311,112.697350 L 39.301579,187.626312"
+              class="id_Alice id_Frank" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.549848,-23.048271 L 4.519937,-144.770264"
+              class="id_Bob id_Gail" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.063227,-149.405029 L -34.083881,-210.931778"
+              class="id_Gail id_Harry" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -33.416378,-214.624298 L -1.960838,-239.541931"
+              class="id_Harry id_Jen" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.114764,-238.596954 L 4.239420,-149.762161"
+              class="id_Jen id_Gail" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.876610,-213.017929 L 28.515171,-211.690704"
+              class="id_Harry id_Irene" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.058016,-209.326920 L 5.311943,-149.574600"
+              class="id_Irene id_Gail" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 29.201874,-213.358322 L 1.811526,-239.372620"
+              class="id_Irene id_Jen" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.663330,167.120117 L 42.215881,188.954758"
+              class="id_Ernst id_Frank" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -56.190319,146.555725 L -19.205402,180.936401"
+              class="id_David id_Carl" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -14.894904,182.958481 L 37.483017,189.717438"
+              class="id_Carl id_Frank" stroke-opacity="1.0" stroke="#999999"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="18.10243"
+                class="id_Alice" cy="110.286285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="12.714413"
+                class="id_Bob" cy="-20.553694" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="-17.374346"
+                class="id_Carl" cy="182.63853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="-58.021374"
+                class="id_David" cy="144.85359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="89.916756"
+                class="id_Ernst" cy="166.03749" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="39.96246"
+                class="id_Frank" cy="190.03738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="4.3553715"
+                class="id_Gail" cy="-147.26485" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="-35.376026"
+                class="id_Harry" cy="-213.07196" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="-0.0011880202"
+                class="id_Jen" cy="-241.09427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+        <circle fill-opacity="1.0" fill="#999999" r="2.35" cx="31.014587"
+                class="id_Irene" cy="-211.63667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.3"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="18.10243" y="112.4689" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alice">
+            Alice
+        </text>
+        <text font-size="12" x="12.714413" y="-18.371077" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bob">
+            Bob
+        </text>
+        <text font-size="12" x="-17.374346" y="184.86021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Carl">
+            Carl
+        </text>
+        <text font-size="12" x="-58.021374" y="147.03621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David">
+            David
+        </text>
+        <text font-size="12" x="89.916756" y="168.22011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ernst">
+            Ernst
+        </text>
+        <text font-size="12" x="39.96246" y="192.22" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frank">
+            Frank
+        </text>
+        <text font-size="12" x="4.3553715" y="-145.04317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gail">
+            Gail
+        </text>
+        <text font-size="12" x="-35.376026" y="-210.29266" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harry">
+            Harry
+        </text>
+        <text font-size="12" x="-0.0011880202" y="-238.9097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jen">
+            Jen
+        </text>
+        <text font-size="12" x="31.014587" y="-209.45406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Irene">
+            Irene
+        </text>
+    </g>
+</svg>
